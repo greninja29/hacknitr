@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hacknitr/static/css/main.140fde82.css",
+    "main.js": "/hacknitr/static/js/main.025c4282.js",
+    "static/js/787.454fba0f.chunk.js": "/hacknitr/static/js/787.454fba0f.chunk.js",
+    "index.html": "/hacknitr/index.html",
+    "main.140fde82.css.map": "/hacknitr/static/css/main.140fde82.css.map",
+    "main.025c4282.js.map": "/hacknitr/static/js/main.025c4282.js.map",
+    "787.454fba0f.chunk.js.map": "/hacknitr/static/js/787.454fba0f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.140fde82.css",
+    "static/js/main.025c4282.js"
+  ]
+}
