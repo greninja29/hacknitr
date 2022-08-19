@@ -1,0 +1,20 @@
+/* -------------main section------------- */
+main {
+    max-width: var(--width--);
+    margin: 0 auto;
+  }
+  main .container .event-calender {
+    width: 400px;
+  }
+  main .container .head-content {
+    display: flex;
+  }
+  .side-img {
+    width: 400px;
+  }
+
+@media (max-width: 800px){
+  .side-img{
+    display: none;
+  }
+}
